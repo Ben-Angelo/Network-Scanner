@@ -107,8 +107,7 @@ Suggestions for enhancements:
 
 ## Author
 
-Omoregie Benjamin Angelo (Ben-Angelo)
+Benjamin Angelo (Ben-Angelo)
 
 ---
 
-If you want any wording changed, a shorter or longer README, or additional sections (badges, license, screenshots, or usage flags), tell me what to add and I will update the README only.
